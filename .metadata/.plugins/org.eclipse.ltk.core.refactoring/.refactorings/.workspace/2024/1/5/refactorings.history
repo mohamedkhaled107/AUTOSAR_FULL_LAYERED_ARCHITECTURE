@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;AUTOSAR_Project/Led_Cfg.h&apos;" deleteContents="false" description="Delete resource &apos;AUTOSAR_Project/Led_Cfg.h&apos;" element1="/AUTOSAR_Project/Led_Cfg.h" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1706530913565"/>
+</session>
